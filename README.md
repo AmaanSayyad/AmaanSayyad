@@ -11,7 +11,7 @@
 
 - 🔭 Also I’m currently working on the project [Face Recognition & Detection](https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-)
 
-- 🌱 I’m currently Learning **Data Science🤩**
+- 🌱 I’m currently Learning **Data Science 🤩**
 
 - : ) I’m looking to Collaborate with Different People on the Topic's which are Trending in Today's World - Across the Globe !  
 
