@@ -9,7 +9,7 @@
 
 - 🕵 Machine Learning Intern @**Internship Studio**
 
-- 🔭 Also I’m Currently Working on the Project [Face Recognition & Detection](https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-)
+- 🔭 Also I’m Currently Working on the Project [Face Mask Recognition & Detection](https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-)
 
 - 🌱 I’m Currently Learning **Data Science 🤩**
 
