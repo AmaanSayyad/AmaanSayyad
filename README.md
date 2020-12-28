@@ -15,7 +15,7 @@
 
 - : ) I’m looking to Collaborate with Different People on the Topic's which are Trending in Today's World - Across the Globe !  
 
- <summary> 📫  How to reach me : Mail To :(https://amaansayyad2001@gmail.com) </summary>
+ <summary> 📫  How to reach me : Mail To : amaansayyad2001@gmail.com </summary>
 
 
 <br>
