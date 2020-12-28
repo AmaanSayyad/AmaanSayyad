@@ -15,8 +15,7 @@
 
 - : ) I’m looking to Collaborate with Different People on the Topic's which are Trending in Today's World - Across the Globe !  
 
-<details> <summary> 📫  How to reach me :</summary><a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJNwfbDSXMwvqwbPBfqrpMDJrXHZCfjgThGhNCqPPVgkLwNTHLkzGVfWTWKCcgTHPtrpbCg"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
-</details>
+<details> <summary> 📫  How to reach me :</summary><a href="amaansayyad2001@gmail.com"></a> </details>
 
 
 <br>
