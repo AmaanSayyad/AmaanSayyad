@@ -1,3 +1,78 @@
+<div align="center">
+
+![Hello](Hello.gif)
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25px"> , I'm Amaan Sayyad </h1>
+
+### A Software Engineer, Developer & Competitive Code
+ 
+I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource. I love building applications & discussing new product ideas with different people on different topics all around the globe.
+
+<a align="left"> <img src="https://Visitor-badge.glitch.me/badge?page_id=AmaanSayyad.profileviews-badge" alt="hj" /> </a>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AmaanSayyad)
+
+<img align="right" height="300" width="425" alt="" src="coder.gif" />
+
+<br/>
+<br/>
+<br/>
+<h1><p align="center">Let's connect!</p></h1>
+
+<a href="https://twitter.com/okothhassanjuma">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/hassan_.o_juma/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hassan-juma-b0a530101/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://hassan.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/juma.hassan.50">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/14121794/hassan-juma">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a> 
+<p align="center"> And follow</p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hello 👋 , I'm Amaan Sayyad </h1>
 <h3 align="center"> A Creative, Logical & Thoughtful C.E from India</h3><br>
 
