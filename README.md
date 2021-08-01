@@ -64,14 +64,8 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
 
 <br>
-
-<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
-
-<br/>
-<br>
 </br>
-<details> <summary> 📫  How to reach me :</summary><a href="mailto:amaansayyad2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
-</details>
+<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
 
 
 ### ⚡ Github Stats
