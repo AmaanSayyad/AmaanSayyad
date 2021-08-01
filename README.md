@@ -3,7 +3,7 @@
 ![Hello](Hello.gif)
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Amaan Sayyad </h1>
 
-### A Software Engineer, Developer & Competitive Code
+### A Software Engineer, Developer & Competitive Coder
  
 I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource. I love building applications & discussing new product ideas with different people on different topics all around the globe.
 
