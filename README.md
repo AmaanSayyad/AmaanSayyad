@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Hello](Hello.gif)
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25px"> , I'm Amaan Sayyad </h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Amaan Sayyad </h1>
 
 ### A Software Engineer, Developer & Competitive Code
  
