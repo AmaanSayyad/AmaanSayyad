@@ -14,115 +14,83 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <img align="right" height="300" width="425" alt="" src="coder.gif" />
 
-<br/>
-<br/>
-<br/>
 <h1><p align="center">Let's connect!</p></h1>
 
-<a href="https://twitter.com/okothhassanjuma">
+<a href="https://twitter.com/AmaanSayyad15">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/hassan_.o_juma/">
+<a href="https://www.instagram.com/__am.aan__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/hassan-juma-b0a530101/">
+<a href="https://www.linkedin.com/in/amaan-sayyad-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://hassan.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/juma.hassan.50">
+<a href="https://www.facebook.com/profile.php?id=100004416526236">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/14121794/hassan-juma">
+<a href="https://stackoverflow.com/users/14121794/amaansayyad">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a> 
 <p align="center"> And follow</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AmaanSayyad15?style=social)](https://twitter.com/intent/follow?screen_name=amaansayyad15) [![GitHub followers](https://img.shields.io/github/followers/AmaanSayyad?label=Follow&style=social)](https://github.com/AmaanSayyad/?tab=follow)
 
 </div>
 
+### Languages & Tools
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hello 👋 , I'm Amaan Sayyad </h1>
-<h3 align="center"> A Creative, Logical & Thoughtful C.E from India</h3><br>
-
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/AmaanSayyad) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=AmaanSayyad.profileviews-badge)](https://github.com/AmaanSayyad) [![Open Source Love](https://img.shields.io/github/followers/AmaanSayyad?style=social)](https://github.com/AmaanSayyad?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)[![Repos Badge](https://badges.pufler.dev/repos/AmaanSayyad)](https://badges.pufler.dev/repos/AmaanSayyad)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/amaan-sayyad-/)
+<p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> </a></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
 
 <br>
 
+<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
 
-
-- 🕵 Machine Learning Intern @**Internship Studio**
-
-- 🔭 Also I’m Currently Working on the Project [Face Mask Recognition & Detection](https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-)
-
-- 🌱 I’m Currently Learning **Data Science 🤩**
-
-- : ) I’m looking to Collaborate with Different People on the Topic's which are Trending in Today's World - Across the Globe !  
-
+<br/>
+<br>
+</br>
 <details> <summary> 📫  How to reach me :</summary><a href="mailto:amaansayyad2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
 
 
-<br>
+### ⚡ Github Stats
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+<details>	
+  
+<img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true">
+</p>
+
+![Hassan's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=AmaanSayyad&theme=dracula)
  
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
- </p>
-<br>
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&theme=tokyonight" alt="AmaanSayyad" /></p>
-
 </details>
 
-<details>
-  <summary>:zap: Most used languages</summary>
+<!--footer-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&layout=compact&hide=html&theme=highcontrast" alt="AmaanSayyad" /></p>
-</details> 
+##
 
-  
-<h4 align="center">Show ❤️ By Starring My Repos! 😊</h4>
-<br>
-
-
-```python3
-while(!(succeed=try()); )
-```
-<br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎 </h4>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/amaan-sayyad-/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
