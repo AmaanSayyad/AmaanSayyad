@@ -32,7 +32,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/14121794/amaansayyad">
+<a href="https://stackoverflow.com/users/16570815/amaan">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a> 
 <p align="center"> And follow</p>
