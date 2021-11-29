@@ -67,7 +67,6 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 </br>
 <img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
 
-
 ### ⚡ Github Stats
 
 <details>	
@@ -83,6 +82,9 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 </details>
 
 <!--footer-->
+
+<h3 align="left">Support</h3>
+<p><a href="https://www.buymeacoffee.com/amaansayyad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amaansayyad" /></a></p>
 
 ##
 
