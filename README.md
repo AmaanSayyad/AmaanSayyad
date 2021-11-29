@@ -70,10 +70,11 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 ### ⚡ Github Stats
 
 <details>	
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+<p align="left">  
+<img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true"></p>
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"></p>
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true">
 </p>
 
