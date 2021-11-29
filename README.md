@@ -84,7 +84,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <!--footer-->
 
-<h3 align="left">Support</h3>
+### Support
 <p><a href="https://www.buymeacoffee.com/amaansayyad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amaansayyad" /></a></p>
 
 ##
