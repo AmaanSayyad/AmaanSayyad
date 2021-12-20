@@ -7,8 +7,6 @@
  
 I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource. I love building applications & discussing new product ideas with different people on different topics all around the globe.
 
-<a align="left"> <img src="https://Visitor-badge.glitch.me/badge?page_id=AmaanSayyad.profileviews-badge" alt="hj" /> </a>
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AmaanSayyad)
 
