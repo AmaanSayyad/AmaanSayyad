@@ -74,10 +74,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"></p>
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true">
-</p>
-
-![Amaan's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=AmaanSayyad&theme=dracula)
- 
+</p> 
 </details>
 
 <!--footer-->
