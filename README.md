@@ -72,8 +72,6 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true">
 </p> 
- <p align="center"> <a href="https://github.com/AmaanSayyad/github-readme-activity-graph"><img alt="Amaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmaanSayyad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- </p>
 </details>
 
 <!--footer-->
