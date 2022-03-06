@@ -76,13 +76,13 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <!--footer-->
 
-### ⚡ Support via Crypto
+### ⚡ Support via **Crypto**
 
-📌 Coin: USDT (TetherUS)
+📌 **Coin: USDT (TetherUS)**
 
-📌 Address: 0xd587be75c57dd805026ab9bb45ccf51cdd514fea
+📌 **Address: 0xd587be75c57dd805026ab9bb45ccf51cdd514fea**
 
-📌 Network: BSC (BNB Smart Chain (BEP20))
+📌 **Network: BSC (BNB Smart Chain (BEP20))**
 
 <p><a href="https://www.buymeacoffee.com/amaansayyad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amaansayyad" /></a></p>
 
