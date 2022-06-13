@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Hello](Hello.gif)
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Amaan Sayyad </h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> , I'm Amaan Sayyad </h1>
 
 ### A Software Engineer, Developer & Competitive Coder
  
@@ -66,12 +66,11 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <details>	
 <p align="left">  
-<img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true"></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true"></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"></p>
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true">
-</p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true"></p> 
 </details>
 
 <!--footer-->
