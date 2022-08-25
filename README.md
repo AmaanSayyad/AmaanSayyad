@@ -66,11 +66,13 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <details>	
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaanSayyad&show_icons=true&hide_border=true&count_private=true"></p>
+  <img src='https://github-readme-stats.vercel.app/api?username=AmaanSayyad&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/></p>
+    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide_border=true&layout=compact&langs_count=8"></p>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
+  
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&show_icons=true&hide_border=true"></p> 
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&theme=gotham&hide_border=true'></p> 
 </details>
 
 <!--footer-->
