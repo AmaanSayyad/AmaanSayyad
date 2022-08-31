@@ -76,7 +76,6 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 ## 📌 Github Stats
 
-<details>	
 <p align="left">  
   <img src='https://github-readme-stats.vercel.app/api?username=AmaanSayyad&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/></p>
     
