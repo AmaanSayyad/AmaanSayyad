@@ -41,7 +41,8 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 ### Languages & Tools
 
-<p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
+<p align="left">
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="26" src="https://external-preview.redd.it/jJ0uTN2rQ0ILAkrpVCDxVL7etrZiG3Crn-wt5W81Mcw.jpg?width=640&crop=smart&auto=webp&s=246124331aa7b2f9fc9ca5bba9abfec1511f4d3d"></code>
 <code><img height="26" width=24px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsWwhTNalYnA0S3iFLypicnoApDBVGuSENw&usqp=CAU"></code>
@@ -50,11 +51,11 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/></code>
 <code><img height="26" width=35px src="https://miro.medium.com/max/1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg"></code>
 <code><img height="26" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png"/><code>
+
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img width=24px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></code>
-
 <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/></code>
