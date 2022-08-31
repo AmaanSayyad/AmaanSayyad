@@ -69,6 +69,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <code><img height="26" width=24px src="https://logosandtypes.com/wp-content/uploads/2022/03/Moralis.png"></code>
 <code><img height="26" width=24px src="https://api.nuget.org/v3-flatcontainer/walletconnect.core/1.7.1/icon"></code>
 <code><img height="26" width=24px src="https://cryptologos.cc/logos/ethereum-eth-logo.png"></code>
+</p>
 
 <br>
 </br>
