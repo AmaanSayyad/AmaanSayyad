@@ -39,7 +39,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 </div>
 
-### Languages & Tools
+### Language & Tools
 
 <p align="left">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
