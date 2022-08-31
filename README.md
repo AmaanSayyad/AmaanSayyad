@@ -69,13 +69,12 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <code><img height="26" width=24px src="https://logosandtypes.com/wp-content/uploads/2022/03/Moralis.png"></code>
 <code><img height="26" width=24px src="https://api.nuget.org/v3-flatcontainer/walletconnect.core/1.7.1/icon"></code>
 <code><img height="26" width=24px src="https://cryptologos.cc/logos/ethereum-eth-logo.png"></code>
-</p>
 
 <br>
 </br>
 <img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
 
-### 📌 Github Stats
+## 📌 Github Stats
 
 <details>	
 <p align="left">  
@@ -90,17 +89,17 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <!--footer-->
 
-### ⚡ Support via **Crypto**
+## ⚡ Support via **Crypto**
 
-📌 **Coin: USDT (TetherUS)**
+## 📌 **Coin: USDT (TetherUS)**
 
-📌 **Address: 0xd587be75c57dd805026ab9bb45ccf51cdd514fea**
+## 📌 **Address: 0xd587be75c57dd805026ab9bb45ccf51cdd514fea**
 
-📌 **Network: BSC (BNB Smart Chain (BEP20))**
+## 📌 **Network: BSC (BNB Smart Chain (BEP20))**
 
 <p><a href="https://www.buymeacoffee.com/amaansayyad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amaansayyad" /></a></p>
 
 ##
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/amaan-sayyad-/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/amaan-sayyad-/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
