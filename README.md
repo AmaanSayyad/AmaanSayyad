@@ -4,7 +4,7 @@
 
 ### A Software Developer, Competitive Coder & Budding Entrepreneur
  
-I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource. I love building applications & discussing new product ideas with different people on different topics all around the globe.
+I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource and Exploring Web3 Space. I love building applications & discussing new product ideas with different people on different topics all around the globe.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AmaanSayyad)
@@ -51,6 +51,7 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 </details>
 
 <!--footer-->
+##
 
 ### ⚡ Support via **Crypto**
 
