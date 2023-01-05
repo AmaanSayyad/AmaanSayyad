@@ -32,8 +32,6 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 </div>
 
-<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
-
 ## 📌 Github Stats
 
 <p align="left">  
