@@ -48,15 +48,13 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 <table><tr><td valign="top" width="50%">
 
-<img src="./assets/metrics.plugin.activity.svg">
+<img src="./assets/metrics.plugin.stargazers.svg" >
 
 </td><td valign="top" width="50%">
 
-<img src="./assets/metrics.plugin.stargazers.svg" >
+<img src="./assets/metrics.plugin.wakatime.svg">
 
 </td></tr></table>
-
-<img src="./assets/metrics.plugin.wakatime.svg">
 
 ---
 <!--footer-->
