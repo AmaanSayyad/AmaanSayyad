@@ -35,27 +35,14 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 
 ## 📌 Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<br>
-
-<img src="./assets/metrics.plugin.overview.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
-
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.stargazers.svg" >
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.wakatime.svg">
-
-</td></tr></table>
+<p align="left">  
+  <img src='https://github-readme-stats.vercel.app/api?username=AmaanSayyad&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/></p>
+    
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
+  
+<p align="right">
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&theme=gotham&hide_border=true'></p> 
 
 ---
 <!--footer-->
