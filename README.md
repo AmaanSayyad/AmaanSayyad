@@ -2,9 +2,9 @@
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> , I'm Amaan Sayyad </h1>
 
-### A Software Developer, Competitive Coder & Budding Entrepreneur
+### A Blockchain Developer, Developer Advocate & Budding Entrepreneur
  
-I'm a Software Engineer who is passionate about Machine Learning, AI, Python Development and Opensource and Exploring Web3 Space. I love building applications & discussing new product ideas with different people on different topics all around the globe.
+I thrive on leveraging technology to create innovative solutions and empower communities. Love Opensource and Exploring Web3 Space. Discussing new product ideas with different people on different topics all around the globe.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AmaanSayyad)
@@ -44,7 +44,6 @@ I'm a Software Engineer who is passionate about Machine Learning, AI, Python Dev
 <p align="right">
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&theme=gotham&hide_border=true'></p> 
 
----
 <!--footer-->
 ##
 
