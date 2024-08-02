@@ -19,16 +19,6 @@ I thrive on leveraging technology to create innovative solutions and empower com
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/amaan.sayyad.1426/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/16570815/amaan">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a> 
-
-<p align="center"> And follow</p>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmaanSayyad15?style=social)](https://twitter.com/intent/follow?screen_name=amaansayyad15) [![GitHub followers](https://img.shields.io/github/followers/AmaanSayyad?label=Follow&style=social)](https://github.com/AmaanSayyad/?tab=follow)
 
 </div>
@@ -45,18 +35,9 @@ I thrive on leveraging technology to create innovative solutions and empower com
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyad&theme=gotham&hide_border=true'></p> 
 
 <!--footer-->
+
 ##
-
-### ⚡ Support via **Crypto**
-
-### 📌 **Coin: USDT/ BTC/ ETH**
-
-### 📌 **Address: 0x48A89e2517BA97a289cF9521E2c8D57a43599A95**
-
-### 📌 **Network: ERC20**
 
 <p><a href="https://www.buymeacoffee.com/amaansayyad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amaansayyad" /></a></p>
 
-##
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/amaan-sayyad-/) and introduce yourself (don’t just say hi, tell me about yourself")</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I like connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/amaan-sayyad-/) and introduce yourself (don’t just say hi, tell me about yourself")</b> </em>
