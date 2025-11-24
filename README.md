@@ -54,7 +54,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 
 ## 🏆 Hackathon Wins
 
-**40/70 wins across globe
+**40/70 wins across the globe**
 
 | Hackathon | Prize | Amount |
 |:---------:|:-----:|:------:|
@@ -104,7 +104,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 
 I love connecting with people who talk business and like to make money! If you want to hire, collaborate, discuss ideas, or chat about Web3, feel free to reach out.
 
-**Pro Tip:** Don't just say "hi" - tell me about yourself, why we connected and how can i help you make 100x!
+**Pro Tip:** Don't just say "hi" - tell me about yourself, why we connected and how I can help you make 100x!
 
 <div align="center">
 
