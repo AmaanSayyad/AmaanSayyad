@@ -26,7 +26,8 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 | 🏗️ **Startups** | 2 co-founded (Solar.AI, Assigne) |
 | 👥 **Community** | 10,000+ developers in Bharat DAO |
 | 📚 **Research** | 2 papers (IEEE & Springer) |
-
+| 💰 **Grants** | 3 grants from top 50 Blockchain |
+| ©️ **Copyrights** | 2 registered (Government of India) |
 
 ## 🌟 Projects
 
