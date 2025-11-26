@@ -23,7 +23,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 | 🚀 **Projects** | 25+ Web3 projects across 30+ ecosystems |
 | 💰 **Prize Money** | $70,000+ won |
 | 💼 **Ex-Companies** | 8 Web3 companies|
-| 🏗️ **Startups** | 2 co-founded (Solar.AI, Assigne) |
+| 🏗️ **Startups** | 2 co-founded (APT-Casino, Solar.AI, Assigne) |
 | 👥 **Community** | 10,000+ developers in Bharat DAO |
 | 📚 **Research** | 2 papers (IEEE & Springer) |
 | 💰 **Grants** | 3 grants from top 50 Blockchain |
