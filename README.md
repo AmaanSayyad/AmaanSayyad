@@ -195,7 +195,6 @@ I love connecting with people who talk business and like to make money! If you w
 
 </div>
 
-
 <div align="center">
 
 ### ⚡ "I build systems that make money" ⚡
