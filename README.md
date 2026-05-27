@@ -4,14 +4,14 @@
 
 ### 🚀 DevRel | Blockchain Developer & Entrepreneur
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://amaan-sayyad-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://amaansayyad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-sayyad-/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amaanbiz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaansayyad2001@gmail.com)
 
 </div>
 
-## 🎯 About Me
+## 🎯 About Myself
 
 I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who builds web3 applications, wins hackathons, grows web3 communities, launch tokens, build systems, explore protocols, go to IRL events, create eductaional contents and mentor aspring devs.
 
@@ -23,7 +23,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 | 🚀 **Projects** | 25+ Web3 projects across 30+ ecosystems |
 | 💰 **Prize Money** | $76,000+ won |
 | 💼 **Ex-Companies** | 8 Web3 companies|
-| 🏗️ **Startups** | 2 co-founded (APT-Casino, Solar.AI, Assigne) |
+| 🏗️ **Startups** | 4 co-founded ([AptCasino.fun](https://aptcasino.fun/), [Bynomo.fun](https://bynomo.fun/), Solar.AI, Assigne) |
 | 👥 **Community** | 10,000+ developers in Bharat DAO |
 | 📚 **Research** | 2 papers (IEEE & Springer) |
 | 💰 **Grants** | 3 grants from top 50 Blockchain |
@@ -33,8 +33,8 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 
 | Project | Description | GitHub |
 |:-------:|:-----------:|:------:|
+| **🎰 AptCasino.fun** | Fully on-chain casino for Aptos ecosystem. Backed by Aptos and Movement Labs. Live on 15+ EVM chains, ICP, Solana, StarkNet | [GitHub](https://github.com/AmaanSayyad/apt-casino) |
 | **⛽ GasProvider** | Universal cross-chain gas distribution platform. User comes with any token on any chain and receives native gas across 300+ chains in 3 seconds powered by mechanisms, fallback treasuries, oracles and event indexers| [GitHub](https://github.com/AmaanSayyad/GasProvider-Monad) |
-| **🎰 APT-Casino** | Fully on-chain casino for Aptos ecosystem. Backed by Aptos and Movement Labs. Live on 15+ EVM chains, ICP, Solana, StarkNet | [GitHub](https://github.com/AmaanSayyad/APT-Casino-Aptos) |
 | **🛡️ HyperInsure** | First on-chain insurance protocol protecting users from transaction latency, mempool congestion and finality delays. Powered by Stacks + Bitcoin | [GitHub](https://github.com/AmaanSayyad/HyperInsure) |
 | **💸 Gemetra** | Global Remittance Infrastructure for VAT Claims & Payroll. Cross-border financial operations with blockchain transparency | [GitHub](https://github.com/amaansayyad/gemetra) |
 | **🏀 DunkVerse** | Mobile-first dApp with AI-driven quizzes on NBA TOPSHOTS, NFT-Powered Social Media, and Social Betting. Backed by Mantle | [GitHub](https://github.com/AmaanSayyad/DunkVerse) |
@@ -187,7 +187,7 @@ I love connecting with people who talk business and like to make money! If you w
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://amaan-sayyad-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://amaansayyad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-sayyad-/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amaanbiz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaansayyad2001@gmail.com)
