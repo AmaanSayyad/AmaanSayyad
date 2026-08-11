@@ -58,6 +58,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 
 | Hackathon | Prize | Amount |
 |:---------:|:-----:|:------:|
+| MNEE Hackathon 2026 | Winner | $12,500 |
 | Monad Blitz Pune 2025 | Second Runner Up | $500 |
 | OneHack 2025 | Second Runner Up | $2,000 |
 | Build on Aptos Hackathon 2025 | Payments Track Winner | $3,000 |
