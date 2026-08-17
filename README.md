@@ -23,7 +23,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 | 🚀 **Projects** | 25+ Web3 projects across 30+ ecosystems |
 | 💰 **Prize Money** | $76,000+ won |
 | 💼 **Ex-Companies** | 8 Web3 companies|
-| 🏗️ **Startups** | 4 co-founded ([AptCasino.fun](https://aptcasino.fun/), [Bynomo.fun](https://bynomo.fun/), Solar.AI, Assigne) |
+| 🏗️ **Startups** | 4 co-founded ([PumpRobin.fun](https://pumprobin.fun/), [AptCasino.fun](https://aptcasino.fun/), [Bynomo.fun](https://bynomo.fun/), Solar.AI, Assigne) |
 | 👥 **Community** | 10,000+ developers in Bharat DAO |
 | 📚 **Research** | 2 papers (IEEE & Springer) |
 | 💰 **Grants** | 3 grants from top 50 Blockchain |
@@ -34,7 +34,7 @@ I'm a **Blockchain Developer**, **Developer Advocate**, and **Entrepreneur** who
 | Project | Description | GitHub |
 |:-------:|:-----------:|:------:|
 | **🎰 AptCasino.fun** | Fully on-chain casino for Aptos ecosystem. Backed by Aptos and Movement Labs. Live on 15+ EVM chains, ICP, Solana, StarkNet | [GitHub](https://github.com/AmaanSayyad/apt-casino) |
-| **⛽ GasProvider** | Universal cross-chain gas distribution platform. User comes with any token on any chain and receives native gas across 300+ chains in 3 seconds powered by mechanisms, fallback treasuries, oracles and event indexers| [GitHub](https://github.com/AmaanSayyad/GasProvider-Monad) |
+| **⛽ GasProvider** | Universal cross-chain gas distribution platform. User comes with any token on any chain and receives native gas across 300+ chains in 3 seconds powered by mechanisms, fallback treasuries, oracles and event indexers| [GitHub](https://github.com/AmaanSayyad/GasProvider-Flare) |
 | **🛡️ HyperInsure** | First on-chain insurance protocol protecting users from transaction latency, mempool congestion and finality delays. Powered by Stacks + Bitcoin | [GitHub](https://github.com/AmaanSayyad/HyperInsure) |
 | **💸 Gemetra** | Global Remittance Infrastructure for VAT Claims & Payroll. Cross-border financial operations with blockchain transparency | [GitHub](https://github.com/amaansayyad/gemetra) |
 | **🏀 DunkVerse** | Mobile-first dApp with AI-driven quizzes on NBA TOPSHOTS, NFT-Powered Social Media, and Social Betting. Backed by Mantle | [GitHub](https://github.com/AmaanSayyad/DunkVerse) |
